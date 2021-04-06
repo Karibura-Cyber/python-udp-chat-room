@@ -15,5 +15,4 @@
 <code>1.Download File from github</code><br>
 <code>2.Unzip file</code><br>
 <code>3.Open cmd or terminal</code><br>
-<code>4.python main.py for Server side</code><br> 
-<code>python main.py [server ip] for client side</code><br>
+<code>4.Run main.py</code>
